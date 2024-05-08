@@ -8,8 +8,8 @@ Main:
 - README
 
 Materials:
-- Data
--- All data used for the original project
-- Code
+- CODE
 -- Code used to generate original findings
+- DATA
+-- All data used for the original project
 - Both supplementary readings
